@@ -1,0 +1,9 @@
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\bin\Debug\netcoreapp1.1\ConsoleAppAnimale.deps.json
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\bin\Debug\netcoreapp1.1\ConsoleAppAnimale.runtimeconfig.json
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\bin\Debug\netcoreapp1.1\ConsoleAppAnimale.runtimeconfig.dev.json
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\bin\Debug\netcoreapp1.1\ConsoleAppAnimale.dll
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\bin\Debug\netcoreapp1.1\ConsoleAppAnimale.pdb
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\obj\Debug\netcoreapp1.1\ConsoleAppAnimale.csprojResolveAssemblyReference.cache
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\obj\Debug\netcoreapp1.1\ConsoleAppAnimale.AssemblyInfo.cs
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\obj\Debug\netcoreapp1.1\ConsoleAppAnimale.dll
+D:\Apps\ConsoleAppAnimale\ConsoleAppAnimale\obj\Debug\netcoreapp1.1\ConsoleAppAnimale.pdb

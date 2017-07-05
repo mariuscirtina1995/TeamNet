@@ -1,0 +1,8 @@
+D:\Apps\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Apps\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Apps\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Apps\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Apps\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\Apps\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+D:\Apps\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+D:\Apps\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
