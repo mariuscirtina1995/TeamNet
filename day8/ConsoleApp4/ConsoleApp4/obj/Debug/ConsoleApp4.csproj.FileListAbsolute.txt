@@ -1,0 +1,6 @@
+D:\day8\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\day8\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\day8\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\day8\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+D:\day8\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\day8\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
