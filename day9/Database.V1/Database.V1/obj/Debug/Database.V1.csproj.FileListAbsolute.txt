@@ -1,0 +1,6 @@
+D:\day9\Database.V1\Database.V1\bin\Debug\Database.V1.exe.config
+D:\day9\Database.V1\Database.V1\bin\Debug\Database.V1.exe
+D:\day9\Database.V1\Database.V1\bin\Debug\Database.V1.pdb
+D:\day9\Database.V1\Database.V1\obj\Debug\Database.V1.csprojResolveAssemblyReference.cache
+D:\day9\Database.V1\Database.V1\obj\Debug\Database.V1.exe
+D:\day9\Database.V1\Database.V1\obj\Debug\Database.V1.pdb
