@@ -1,0 +1,12 @@
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\Proiecte\Instruire\Proiecte\Serialization\Serialization\obj\Debug\Serialization.pdb
+D:\day10\Factory_and_singleton_Patern\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\day10\Factory_and_singleton_Patern\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\day10\Factory_and_singleton_Patern\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\day10\Factory_and_singleton_Patern\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\day10\Factory_and_singleton_Patern\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\day10\Factory_and_singleton_Patern\Serialization\Serialization\obj\Debug\Serialization.pdb

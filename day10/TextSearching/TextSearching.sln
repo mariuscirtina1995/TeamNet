@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSearching", "TextSearching\TextSearching.csproj", "{D6AE05E3-1016-4B6D-8392-CCAA41CC3E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSearching.Tests", "TextSearching.Tests\TextSearching.Tests.csproj", "{00D947AB-2B17-4477-BCB3-6C61B3982FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AE05E3-1016-4B6D-8392-CCAA41CC3E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AE05E3-1016-4B6D-8392-CCAA41CC3E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AE05E3-1016-4B6D-8392-CCAA41CC3E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AE05E3-1016-4B6D-8392-CCAA41CC3E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D947AB-2B17-4477-BCB3-6C61B3982FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D947AB-2B17-4477-BCB3-6C61B3982FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D947AB-2B17-4477-BCB3-6C61B3982FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D947AB-2B17-4477-BCB3-6C61B3982FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

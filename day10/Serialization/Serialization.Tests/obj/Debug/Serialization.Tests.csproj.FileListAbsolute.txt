@@ -1,0 +1,9 @@
+D:\day10\Serialization\Serialization.Tests\bin\Debug\Serialization.Tests.dll
+D:\day10\Serialization\Serialization.Tests\bin\Debug\Serialization.Tests.pdb
+D:\day10\Serialization\Serialization.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\day10\Serialization\Serialization.Tests\bin\Debug\Serialization.exe
+D:\day10\Serialization\Serialization.Tests\bin\Debug\Serialization.pdb
+D:\day10\Serialization\Serialization.Tests\bin\Debug\Serialization.exe.config
+D:\day10\Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.csprojResolveAssemblyReference.cache
+D:\day10\Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.dll
+D:\day10\Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.pdb

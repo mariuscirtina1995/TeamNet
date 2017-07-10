@@ -1,0 +1,10 @@
+D:\day10\TextSearching\TextSearching.Tests\bin\Debug\TextFile1.txt
+D:\day10\TextSearching\TextSearching.Tests\bin\Debug\TextSearching.Tests.dll
+D:\day10\TextSearching\TextSearching.Tests\bin\Debug\TextSearching.Tests.pdb
+D:\day10\TextSearching\TextSearching.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\day10\TextSearching\TextSearching.Tests\bin\Debug\TextSearching.exe
+D:\day10\TextSearching\TextSearching.Tests\bin\Debug\TextSearching.pdb
+D:\day10\TextSearching\TextSearching.Tests\bin\Debug\TextSearching.exe.config
+D:\day10\TextSearching\TextSearching.Tests\obj\Debug\TextSearching.Tests.csprojResolveAssemblyReference.cache
+D:\day10\TextSearching\TextSearching.Tests\obj\Debug\TextSearching.Tests.dll
+D:\day10\TextSearching\TextSearching.Tests\obj\Debug\TextSearching.Tests.pdb

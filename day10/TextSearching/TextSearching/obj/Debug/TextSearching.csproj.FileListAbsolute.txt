@@ -1,0 +1,6 @@
+D:\day10\TextSearching\TextSearching\bin\Debug\TextSearching.exe.config
+D:\day10\TextSearching\TextSearching\bin\Debug\TextSearching.exe
+D:\day10\TextSearching\TextSearching\bin\Debug\TextSearching.pdb
+D:\day10\TextSearching\TextSearching\obj\Debug\TextSearching.csprojResolveAssemblyReference.cache
+D:\day10\TextSearching\TextSearching\obj\Debug\TextSearching.exe
+D:\day10\TextSearching\TextSearching\obj\Debug\TextSearching.pdb
