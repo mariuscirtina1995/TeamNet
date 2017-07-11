@@ -1,0 +1,8 @@
+D:\day11\SomePatterns\SomePatterns.Tests\bin\Debug\SomePatterns.Tests.dll
+D:\day11\SomePatterns\SomePatterns.Tests\bin\Debug\SomePatterns.Tests.pdb
+D:\day11\SomePatterns\SomePatterns.Tests\bin\Debug\SomePatterns.exe
+D:\day11\SomePatterns\SomePatterns.Tests\bin\Debug\SomePatterns.pdb
+D:\day11\SomePatterns\SomePatterns.Tests\bin\Debug\SomePatterns.exe.config
+D:\day11\SomePatterns\SomePatterns.Tests\obj\Debug\SomePatterns.Tests.csprojResolveAssemblyReference.cache
+D:\day11\SomePatterns\SomePatterns.Tests\obj\Debug\SomePatterns.Tests.dll
+D:\day11\SomePatterns\SomePatterns.Tests\obj\Debug\SomePatterns.Tests.pdb

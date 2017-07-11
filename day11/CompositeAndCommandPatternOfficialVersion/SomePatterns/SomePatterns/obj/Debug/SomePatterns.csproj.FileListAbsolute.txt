@@ -1,0 +1,6 @@
+D:\day11\CompositeAndCommandPatternOfficialVersion\SomePatterns\SomePatterns\bin\Debug\SomePatterns.exe.config
+D:\day11\CompositeAndCommandPatternOfficialVersion\SomePatterns\SomePatterns\bin\Debug\SomePatterns.exe
+D:\day11\CompositeAndCommandPatternOfficialVersion\SomePatterns\SomePatterns\bin\Debug\SomePatterns.pdb
+D:\day11\CompositeAndCommandPatternOfficialVersion\SomePatterns\SomePatterns\obj\Debug\SomePatterns.csprojResolveAssemblyReference.cache
+D:\day11\CompositeAndCommandPatternOfficialVersion\SomePatterns\SomePatterns\obj\Debug\SomePatterns.exe
+D:\day11\CompositeAndCommandPatternOfficialVersion\SomePatterns\SomePatterns\obj\Debug\SomePatterns.pdb
