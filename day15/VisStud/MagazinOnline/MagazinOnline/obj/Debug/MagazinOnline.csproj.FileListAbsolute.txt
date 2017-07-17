@@ -1,0 +1,6 @@
+D:\day15\VisStud\MagazinOnline\MagazinOnline\bin\Debug\MagazinOnline.exe.config
+D:\day15\VisStud\MagazinOnline\MagazinOnline\bin\Debug\MagazinOnline.exe
+D:\day15\VisStud\MagazinOnline\MagazinOnline\bin\Debug\MagazinOnline.pdb
+D:\day15\VisStud\MagazinOnline\MagazinOnline\obj\Debug\MagazinOnline.csprojResolveAssemblyReference.cache
+D:\day15\VisStud\MagazinOnline\MagazinOnline\obj\Debug\MagazinOnline.exe
+D:\day15\VisStud\MagazinOnline\MagazinOnline\obj\Debug\MagazinOnline.pdb

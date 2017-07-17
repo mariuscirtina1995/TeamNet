@@ -1,0 +1,5 @@
+D:\day15\VisStud\MagazinOnline\Update\bin\Debug\Update.exe.config
+D:\day15\VisStud\MagazinOnline\Update\bin\Debug\Update.exe
+D:\day15\VisStud\MagazinOnline\Update\bin\Debug\Update.pdb
+D:\day15\VisStud\MagazinOnline\Update\obj\Debug\Update.exe
+D:\day15\VisStud\MagazinOnline\Update\obj\Debug\Update.pdb

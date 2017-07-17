@@ -1,0 +1,6 @@
+D:\day15\VisStud\MagazinOnline\InsertIntoTable\bin\Debug\InsertIntoTable.exe.config
+D:\day15\VisStud\MagazinOnline\InsertIntoTable\bin\Debug\InsertIntoTable.exe
+D:\day15\VisStud\MagazinOnline\InsertIntoTable\bin\Debug\InsertIntoTable.pdb
+D:\day15\VisStud\MagazinOnline\InsertIntoTable\obj\Debug\InsertIntoTable.csprojResolveAssemblyReference.cache
+D:\day15\VisStud\MagazinOnline\InsertIntoTable\obj\Debug\InsertIntoTable.exe
+D:\day15\VisStud\MagazinOnline\InsertIntoTable\obj\Debug\InsertIntoTable.pdb
