@@ -1,0 +1,14 @@
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.Tests.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.Tests.pdb
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.pdb
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\day16\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\day16\ErpDatabase\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.csprojResolveAssemblyReference.cache
+D:\day16\ErpDatabase\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.dll
+D:\day16\ErpDatabase\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.pdb
