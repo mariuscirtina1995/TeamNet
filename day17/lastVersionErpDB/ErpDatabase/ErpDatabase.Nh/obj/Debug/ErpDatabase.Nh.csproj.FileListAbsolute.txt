@@ -1,0 +1,11 @@
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\ErpDatabase.Nh.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\ErpDatabase.Nh.pdb
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\ErpDatabase.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\Iesi.Collections.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\NHibernate.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\ErpDatabase.pdb
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\Iesi.Collections.xml
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\bin\Debug\NHibernate.xml
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\obj\Debug\ErpDatabase.Nh.csprojResolveAssemblyReference.cache
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\obj\Debug\ErpDatabase.Nh.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Nh\obj\Debug\ErpDatabase.Nh.pdb

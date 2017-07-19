@@ -1,0 +1,4 @@
+D:\day17\last\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.dll
+D:\day17\last\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.pdb
+D:\day17\last\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.dll
+D:\day17\last\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.pdb

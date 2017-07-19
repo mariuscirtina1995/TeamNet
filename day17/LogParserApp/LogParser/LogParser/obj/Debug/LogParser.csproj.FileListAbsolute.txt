@@ -1,0 +1,11 @@
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\conpot.log
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\LogParser.exe.config
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\LogParser.exe
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\LogParser.pdb
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\Iesi.Collections.dll
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\NHibernate.dll
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\Iesi.Collections.xml
+D:\day17\LogParserApp\LogParser\LogParser\bin\Debug\NHibernate.xml
+D:\day17\LogParserApp\LogParser\LogParser\obj\Debug\LogParser.csprojResolveAssemblyReference.cache
+D:\day17\LogParserApp\LogParser\LogParser\obj\Debug\LogParser.exe
+D:\day17\LogParserApp\LogParser\LogParser\obj\Debug\LogParser.pdb

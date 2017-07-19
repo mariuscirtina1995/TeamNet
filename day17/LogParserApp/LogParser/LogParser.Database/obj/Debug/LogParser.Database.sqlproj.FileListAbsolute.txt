@@ -1,0 +1,9 @@
+D:\day17\LogParserApp\LogParser\LogParser.Database\bin\Debug\LogParser.Database.dacpac
+D:\day17\LogParserApp\LogParser\LogParser.Database\bin\Debug\LogParser.Database.dll
+D:\day17\LogParserApp\LogParser\LogParser.Database\bin\Debug\LogParser.Database.pdb
+D:\day17\LogParserApp\LogParser\LogParser.Database\obj\Debug\Model.xml
+D:\day17\LogParserApp\LogParser\LogParser.Database\obj\Debug\refactor.xml
+D:\day17\LogParserApp\LogParser\LogParser.Database\obj\Debug\postdeploy.sql
+D:\day17\LogParserApp\LogParser\LogParser.Database\obj\Debug\predeploy.sql
+D:\day17\LogParserApp\LogParser\LogParser.Database\obj\Debug\LogParser.Database.dll
+D:\day17\LogParserApp\LogParser\LogParser.Database\obj\Debug\LogParser.Database.pdb

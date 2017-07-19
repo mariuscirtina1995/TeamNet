@@ -1,0 +1,12 @@
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\ErpDatabase.Ef.dll.config
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\ErpDatabase.Ef.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\ErpDatabase.Ef.pdb
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\EntityFramework.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\EntityFramework.SqlServer.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\ErpDatabase.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\ErpDatabase.pdb
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\EntityFramework.xml
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\bin\Debug\EntityFramework.SqlServer.xml
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\obj\Debug\ErpDatabase.Ef.csprojResolveAssemblyReference.cache
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\obj\Debug\ErpDatabase.Ef.dll
+D:\day17\last\ErpDatabase\ErpDatabase.Ef\obj\Debug\ErpDatabase.Ef.pdb
