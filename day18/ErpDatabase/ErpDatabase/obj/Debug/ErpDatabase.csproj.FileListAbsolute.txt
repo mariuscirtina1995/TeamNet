@@ -1,0 +1,5 @@
+D:\day18\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.dll
+D:\day18\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.pdb
+D:\day18\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.dll
+D:\day18\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.pdb
+D:\day18\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.csprojResolveAssemblyReference.cache

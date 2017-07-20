@@ -1,0 +1,5 @@
+D:\day18\Countries\Countries.Database\bin\Debug\Countries.Database.dacpac
+D:\day18\Countries\Countries.Database\bin\Debug\Countries.Database.dll
+D:\day18\Countries\Countries.Database\bin\Debug\Countries.Database.pdb
+D:\day18\Countries\Countries.Database\obj\Debug\Countries.Database.dll
+D:\day18\Countries\Countries.Database\obj\Debug\Countries.Database.pdb
