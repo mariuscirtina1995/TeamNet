@@ -1,0 +1,13 @@
+D:\day19\Countries\Contries.Hn\bin\Debug\Countries.csv
+D:\day19\Countries\Contries.Hn\bin\Debug\Contries.Hn.dll
+D:\day19\Countries\Contries.Hn\bin\Debug\Contries.Hn.pdb
+D:\day19\Countries\Contries.Hn\bin\Debug\Countries.exe
+D:\day19\Countries\Contries.Hn\bin\Debug\Iesi.Collections.dll
+D:\day19\Countries\Contries.Hn\bin\Debug\NHibernate.dll
+D:\day19\Countries\Contries.Hn\bin\Debug\Countries.pdb
+D:\day19\Countries\Contries.Hn\bin\Debug\Countries.exe.config
+D:\day19\Countries\Contries.Hn\bin\Debug\Iesi.Collections.xml
+D:\day19\Countries\Contries.Hn\bin\Debug\NHibernate.xml
+D:\day19\Countries\Contries.Hn\obj\Debug\Contries.Hn.csprojResolveAssemblyReference.cache
+D:\day19\Countries\Contries.Hn\obj\Debug\Contries.Hn.dll
+D:\day19\Countries\Contries.Hn\obj\Debug\Contries.Hn.pdb

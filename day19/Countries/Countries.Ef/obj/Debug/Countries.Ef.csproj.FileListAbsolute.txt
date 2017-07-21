@@ -1,0 +1,14 @@
+D:\day19\Countries\Countries.Ef\bin\Debug\Countries.csv
+D:\day19\Countries\Countries.Ef\bin\Debug\Countries.Ef.dll.config
+D:\day19\Countries\Countries.Ef\bin\Debug\Countries.Ef.dll
+D:\day19\Countries\Countries.Ef\bin\Debug\Countries.Ef.pdb
+D:\day19\Countries\Countries.Ef\bin\Debug\Countries.exe
+D:\day19\Countries\Countries.Ef\bin\Debug\EntityFramework.dll
+D:\day19\Countries\Countries.Ef\bin\Debug\EntityFramework.SqlServer.dll
+D:\day19\Countries\Countries.Ef\bin\Debug\Countries.pdb
+D:\day19\Countries\Countries.Ef\bin\Debug\Countries.exe.config
+D:\day19\Countries\Countries.Ef\bin\Debug\EntityFramework.xml
+D:\day19\Countries\Countries.Ef\bin\Debug\EntityFramework.SqlServer.xml
+D:\day19\Countries\Countries.Ef\obj\Debug\Countries.Ef.csprojResolveAssemblyReference.cache
+D:\day19\Countries\Countries.Ef\obj\Debug\Countries.Ef.dll
+D:\day19\Countries\Countries.Ef\obj\Debug\Countries.Ef.pdb
