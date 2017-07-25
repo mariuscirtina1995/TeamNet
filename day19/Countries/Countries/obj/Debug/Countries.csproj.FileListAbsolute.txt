@@ -1,8 +1,0 @@
-D:\day19\Countries\Countries\bin\Debug\Countries.csv
-D:\day19\Countries\Countries\bin\Debug\Countries.exe.config
-D:\day19\Countries\Countries\bin\Debug\Countries.exe
-D:\day19\Countries\Countries\bin\Debug\Countries.pdb
-D:\day19\Countries\Countries\bin\Debug\Iesi.Collections.dll
-D:\day19\Countries\Countries\bin\Debug\Iesi.Collections.xml
-D:\day19\Countries\Countries\obj\Debug\Countries.exe
-D:\day19\Countries\Countries\obj\Debug\Countries.pdb

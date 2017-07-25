@@ -1,7 +1,0 @@
-D:\day18\Countries\Countries\bin\Debug\Countries.csv
-D:\day18\Countries\Countries\bin\Debug\Countries.exe.config
-D:\day18\Countries\Countries\bin\Debug\Countries.exe
-D:\day18\Countries\Countries\bin\Debug\Countries.pdb
-D:\day18\Countries\Countries\obj\Debug\Countries.exe
-D:\day18\Countries\Countries\obj\Debug\Countries.pdb
-D:\day18\Countries\Countries\obj\Debug\Countries.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-D:\day17\ErpDatabase\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.AdoNet.dll
-D:\day17\ErpDatabase\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.AdoNet.pdb
-D:\day17\ErpDatabase\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.dll
-D:\day17\ErpDatabase\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.pdb
-D:\day17\ErpDatabase\ErpDatabase.AdoNet\obj\Debug\ErpDatabase.AdoNet.csprojResolveAssemblyReference.cache
-D:\day17\ErpDatabase\ErpDatabase.AdoNet\obj\Debug\ErpDatabase.AdoNet.dll
-D:\day17\ErpDatabase\ErpDatabase.AdoNet\obj\Debug\ErpDatabase.AdoNet.pdb

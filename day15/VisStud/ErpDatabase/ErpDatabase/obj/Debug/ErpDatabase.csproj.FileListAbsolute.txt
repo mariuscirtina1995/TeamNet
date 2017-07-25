@@ -1,5 +1,0 @@
-D:\day15\VisStud\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.dll
-D:\day15\VisStud\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.pdb
-D:\day15\VisStud\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.dll
-D:\day15\VisStud\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.pdb
-D:\day15\VisStud\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.csprojResolveAssemblyReference.cache
