@@ -1,0 +1,5 @@
+D:\day7\Apps\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\day7\Apps\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\day7\Apps\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\day7\Apps\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\day7\Apps\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

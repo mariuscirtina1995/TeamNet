@@ -1,0 +1,9 @@
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\bin\Debug\Countries.Database.dacpac
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\bin\Debug\Countries.Database.dll
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\bin\Debug\Countries.Database.pdb
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\obj\Debug\Model.xml
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\obj\Debug\refactor.xml
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\obj\Debug\postdeploy.sql
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\obj\Debug\predeploy.sql
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\obj\Debug\Countries.Database.dll
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Database\obj\Debug\Countries.Database.pdb
