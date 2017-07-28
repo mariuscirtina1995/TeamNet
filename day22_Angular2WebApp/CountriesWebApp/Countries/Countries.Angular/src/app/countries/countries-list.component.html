@@ -1,0 +1,128 @@
+﻿<div>
+  <label>Page Number: </label>
+  <input type="number" [(ngModel)]="pageNumber" min="0" />
+
+  <label>Page Size: </label>
+  <select [(ngModel)]="pageSize">
+    <option value=10>10</option>
+    <option value=15>15</option>
+    <option value=20>20</option>
+  </select>
+</div>
+  
+<br><br>
+
+<div>  
+  <label>Set Order By Field: </label>
+  <select [(ngModel)]="orderBy">
+    <option value="Code">Code</option>
+    <option value="Name">Name</option>
+    <option value="Longitude">Longitude</option>
+    <option value="Latitude">Latitude</option>
+  </select>
+</div>
+
+<br><br>
+
+<div>
+  <label>Search Country by Name: </label>
+  <input type="text" [(ngModel)]="countryNaneSearch"/>
+  <button type="button" (click)="searchByName()">Search</button>
+</div>
+
+<div *ngIf="searchName == true">
+  <label>Country Code: </label> {{countrySearch.Code}} <br>
+  <label>Country Name: </label> {{countrySearch.Name}} <br>
+  <label>Country Latitude: </label> {{countrySearch.Latitude}} <br>
+  <label>Country Longitude: </label> {{countrySearch.Longitude}} <br>
+</div>
+
+<br><br>
+
+<div>
+
+  <label>Camp de Filtrare:</label>
+  <select [(ngModel)]="filterfield">
+    <option value="Code">Code</option>
+    <option value="Name">Name</option>
+    <option value="Longitude">Longitude</option>
+    <option value="Latitude">Latitude</option>
+  </select>
+
+  <label>Operation:</label>
+  <select [(ngModel)]="operation">
+    
+    <option *ngIf="filterfield == 'Code' || filterfield == 'Name'" value="StartsWith">StartWith</option>
+    <option *ngIf="filterfield == 'Code' || filterfield == 'Name'" value="Equals">Equals</option>
+      
+    <option *ngIf="filterfield == 'Longitude' || filterfield == 'Latitude'" value="greaterthan">Greater Than</option>
+    <option *ngIf="filterfield == 'Longitude' || filterfield == 'Latitude'" value="lesserthan">Lesser Than</option>
+    <option *ngIf="filterfield == 'Longitude' || filterfield == 'Latitude'" value="Equals">Equals</option>
+
+  </select>
+
+  <label>Value:</label>
+  <input type="text" [(ngModel)]="valoare"/>
+
+</div>
+
+<br><br>
+
+<div>
+  <button type="button" (click)="refresh()">Refresh</button>
+</div>
+
+<br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th> <button type="button" (click)="codeOrder()">Code</button></th>
+      <th> <button type="button" (click)="nameOrder()">Name</button></th>
+      <th> <button type="button" (click)="latOrder()">Latitude</button></th>
+      <th> <button type="button" (click)="longOrder()">Longitude</button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let country of countries">
+      <td>{{country.Code}}</td>
+      <td>{{country.Name}}</td>
+      <td>{{country.Latitude}}</td>
+      <td>{{country.Longitude}}</td>
+      <td><button type="button" (click)="editCountry(country)">Edit</button></td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+Page Number: {{pageNumber}} 
+Tatal Pages: {{totalPages}}
+<div>
+  <button type="button" (click)="previousPage()" [disabled]="!(pageNumber > 1)">Previos Page</button>
+  <button type="button" (click)="nextPage()" [disabled]="!(pageNumber < totalPages)">Next Page</button>
+</div>
+
+<br><br>
+
+<div>
+
+  <label>Code: </label>
+  <input type="text" [(ngModel)]="saveCountry.Code"/><br><br>
+
+  <label>Name: </label>
+  <input type="text" [(ngModel)]="saveCountry.Name" /><br><br>
+
+  <label>Longitude: </label>
+  <input type="number" [(ngModel)]="saveCountry.Longitude" /><br><br>
+
+  <label>Latitude: </label>
+  <input type="number" [(ngModel)]="saveCountry.Latitude" /><br><br>
+
+  <button type="button" (click)="addCountry()">Add Country</button>
+</div>
+
+<br><br>
+
+<div>
+  <button type="button" (click)="updateCountry()">Update Country</button>
+</div>

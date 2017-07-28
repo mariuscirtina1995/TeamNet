@@ -1,0 +1,8 @@
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Angular\bin\Debug\Countries.Angular.dll
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Angular\bin\Debug\Countries.Angular.pdb
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Angular\obj\Debug\Countries.Angular.dll
+D:\day22_CountriesWebApp_part1\CountriesUpdate2\Countries\Countries.Angular\obj\Debug\Countries.Angular.pdb
+D:\day22_Angular2WebApp\CountriesWebApp\Countries\Countries.Angular\bin\Debug\Countries.Angular.dll
+D:\day22_Angular2WebApp\CountriesWebApp\Countries\Countries.Angular\bin\Debug\Countries.Angular.pdb
+D:\day22_Angular2WebApp\CountriesWebApp\Countries\Countries.Angular\obj\Debug\Countries.Angular.dll
+D:\day22_Angular2WebApp\CountriesWebApp\Countries\Countries.Angular\obj\Debug\Countries.Angular.pdb
