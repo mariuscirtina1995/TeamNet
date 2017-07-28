@@ -1,0 +1,6 @@
+D:\day24_Threading_part1\FiboThreading\FiboThreading\bin\Debug\FiboThreading.exe.config
+D:\day24_Threading_part1\FiboThreading\FiboThreading\bin\Debug\FiboThreading.exe
+D:\day24_Threading_part1\FiboThreading\FiboThreading\bin\Debug\FiboThreading.pdb
+D:\day24_Threading_part1\FiboThreading\FiboThreading\obj\Debug\FiboThreading.csprojResolveAssemblyReference.cache
+D:\day24_Threading_part1\FiboThreading\FiboThreading\obj\Debug\FiboThreading.exe
+D:\day24_Threading_part1\FiboThreading\FiboThreading\obj\Debug\FiboThreading.pdb

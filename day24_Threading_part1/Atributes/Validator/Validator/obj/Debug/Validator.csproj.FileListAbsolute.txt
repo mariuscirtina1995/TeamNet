@@ -1,0 +1,6 @@
+D:\day24_Threading_part1\Atributes\Validator\Validator\bin\Debug\Validator.exe.config
+D:\day24_Threading_part1\Atributes\Validator\Validator\bin\Debug\Validator.exe
+D:\day24_Threading_part1\Atributes\Validator\Validator\bin\Debug\Validator.pdb
+D:\day24_Threading_part1\Atributes\Validator\Validator\obj\Debug\Validator.csprojResolveAssemblyReference.cache
+D:\day24_Threading_part1\Atributes\Validator\Validator\obj\Debug\Validator.exe
+D:\day24_Threading_part1\Atributes\Validator\Validator\obj\Debug\Validator.pdb
